@@ -1,0 +1,16 @@
+{
+  "name": "js-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --watch index.test.js | faucet"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faucet": "^0.0.4",
+    "tap": "^18.4.3"
+  }
+}
